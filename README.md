@@ -1,0 +1,3 @@
+- 👋 Hi, I’m wlingzhenyu
+- 🌱 I am learning C++ and only know one python. /(ㄒoㄒ)/~~
+- 📫 So I'm nothing.
